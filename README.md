@@ -2,15 +2,15 @@
 
 ## 利用の手順
 
-1. レポジトリをダウンロードして、カレントディレクトリを移動する。
+1. レポジトリをダウンロードして、試用するスクリプトがあるフォルダにカレントディレクトリを移動します。
 
 ```
-$ cd classroom-python
+$ cd classroom-api/python
 ```
 
-2. OAuth でデスクトップのアカウントを `credentials.json` を作成する。
+2. OAuth でデスクトップのアカウントを `credentials.json` を作成します。
 
-3. スクリプトを実行する。
+3. スクリプトを実行します。
 
 ```
 $ python createCourses.py
