@@ -1,4 +1,4 @@
-# Classroom API 実例集
+# G Suite for Education: Classroom API 実例集
 
 ## 利用の手順
 
